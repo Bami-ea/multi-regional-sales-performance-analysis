@@ -27,6 +27,7 @@ The analysis was designed to answer the following business questions:
 	•	Google Sheets – Structured formatting, cleaning, and upload preparation
 	•	BigQuery (SQL) – Data modeling, aggregation, KPI computation, and analytical views
 	•	Tableau – Interactive dashboard design and executive reporting
+	•	GitHub –  project documentation
 
 
 
@@ -74,4 +75,5 @@ README.md       → Project documentation
 ## Disclaimer
 
 The company name and dataset have been anonymized for confidentiality purposes.
+Customer-level analysis is excluded due to confidentiality.
 The structure and insights reflect a real-world analytical scenario.
